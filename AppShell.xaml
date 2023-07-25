@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="WindowsTabBarColorsIssue.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:WindowsTabBarColorsIssue"
+    xmlns:pages="clr-namespace:WindowsTabBarColorsIssue.Pages"
+    Shell.FlyoutBehavior="Disabled">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <TabBar Route="Tabs" x:Name="shellTabbar"
+            Shell.TabBarBackgroundColor="#0080C3"
+            Shell.TabBarUnselectedColor="#99cee7"
+            Shell.TabBarTitleColor="White"
+            Shell.TabBarForegroundColor="White"
+            >
+        <Tab x:Name="HomeTab" Title="Home" Route="HomeViewModel" Icon="tabbar_home_active.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:HomeTabPage}"/>
+        </Tab>
+        <Tab x:Name="ProductsTab" Title="Products" Route="ProductsViewModel" Icon="tabbar_catalog_active.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:ProductsTabPage}"/>
+        </Tab>
+        <Tab x:Name="ContactTab" Title="Contact" Route="ContactViewModel" Icon="tabbar_projects_active.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:ContactTabPage}"/>
+        </Tab>
+
+    </TabBar>
+
+</Shell>

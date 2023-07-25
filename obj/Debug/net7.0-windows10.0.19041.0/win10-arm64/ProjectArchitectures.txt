@@ -1,0 +1,1 @@
+C:\Users\raduflesar\source\repos\WindowsTabBarColorsIssue\WindowsTabBarColorsIssue.csproj;arm64

@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WindowsTabBarColorsIssue
+build_property.ProjectDir = /Users/raduflesar/Desktop/WindowsTabBarColorsIssue/
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/Pages/ContactTabPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.Pages.ContactTabPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ContactTabPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ContactTabPage.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/Pages/HomeTabPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.Pages.HomeTabPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/HomeTabPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/HomeTabPage.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/Pages/ProductsTabPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.Pages.ProductsTabPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ProductsTabPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ProductsTabPage.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/raduflesar/Desktop/WindowsTabBarColorsIssue/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WindowsTabBarColorsIssue.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
